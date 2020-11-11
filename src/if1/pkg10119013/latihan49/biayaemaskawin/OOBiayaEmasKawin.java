@@ -60,6 +60,8 @@ public class OOBiayaEmasKawin {
         System.out.println("Harga emas per gram : Rp " + hargaEmas);
         System.out.println("-----------------------------------");
         System.out.println("Biaya yang harus dibayar : Rp " + biaya);
+        System.out.println();
+        System.out.println("by. Fiona Avila");
     }
     
 }
